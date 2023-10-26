@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dice roller</string>
+    <string name="shuffle">Shuffle</string>
+</resources>
